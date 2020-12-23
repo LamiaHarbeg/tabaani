@@ -1,3 +1,15 @@
+#Tabaani: Talent Acquisition Exercice:
+
+Create a new react project you can use npx create-react-app for this project
+- you can use Material-ui or any UI framework
+- You will fetch images from this test api https://jsonplaceholder.typicode.com/photos
+- you will create a responsive gallery so in desktop it will show 3 items/row , 2 in a tablet and 1 on mobile devices
+
+ The gallery can only fit 50 photos, but the api is returning 500 split into 100 different albums,
+Only take the 1st image of each album with an even ID
+The album should only show the first 10 pictures, and a Show More button should allow to show 10 more, and so on up to 50 .
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
